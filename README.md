@@ -2,7 +2,7 @@
 Java Rectangle
 
 ## Features
-This is a template for Java class.
+This is a program to check if a rectangle is a square.
 
 ##Technologies
 Java, JUnit, Gradle, Spark, Velocity Engine.
