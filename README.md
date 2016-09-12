@@ -1,24 +1,16 @@
 ## Project Name
-Java Template
+Java Rectangle
 
 ## Features
 This is a template for Java class.
 
 ##Technologies
-Java, JUnit, Gradle
+Java, JUnit, Gradle, Spark, Velocity Engine.
 
-## Usage
-To use the code, you can clone the repository at: [https://github.com/mehequanna/java-template](https://github.com/mehequanna/java-template).
-If this were a program:
-* $ git clone https://github.com/mehequanna/java-template
-* $ cd java-template
-* $ gradle compileJava
-* $ cd build/classes/main
-* $ java App
 
 ## Author/s
-Stephen Emery
+Stephen Emery & Nhat Hoang
 
 ##License
 This work can be used under the MIT License.
-Copyright (c) 2016 Stephen Emery
+Copyright (c) 2016 Stephen Emery & Nhat Hoang
